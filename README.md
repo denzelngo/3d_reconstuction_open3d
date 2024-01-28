@@ -1,5 +1,5 @@
 # 3D Reconstruction using open3D
-_written by Denzel_
+_written by Damien_
 
 The code in this repository is designed to utilize RGB-D data for generating 3D scenes, using open3D framework.
 
